@@ -1,0 +1,78 @@
+body{
+    text-align: center;
+    font-family: 'Spartan';
+}
+.title{
+    background: url("/2866137.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+.container-fluid{
+    padding: 7% 15%;
+}
+span{
+    text-decoration: underline;
+    font-size: 1.2rem;
+}
+.skills{
+    margin: 5% auto 5% auto;;
+}
+.Contact{
+    background: url("/2866137.jpg") no-repeat center;
+    background-size: cover;
+}
+.avtar{
+    border-radius: 50%;
+    height: 200px;
+}
+h1{
+    font-family: 'Pacifico';
+    color: brown;
+}
+p{color: #b81405;
+
+    margin: 20px;
+}
+h2{
+    font-weight: bolder;
+    margin: 20px;
+    color: #ff6600;
+}
+.navbar-brand{
+    font-family:'Ubuntu';
+    font-size:2.5em;
+    font-weight: bold;
+    color: #ffffff !important;
+}
+.nav-link{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.nav-item{
+    padding: 0 15px 0 0;
+}
+nav .navbar-nav li a{
+    color: #b81405 !important;
+    }
+    nav .navbar-nav li a:hover{
+        color: #ffffff !important;
+        }            
+#copyright{
+    margin-bottom: 0;
+}      
+#contact{
+    padding: 20px;;
+}  
+.icon{
+    padding: 50px;
+    color: brown;
+}
+.icon:hover{
+    color: rgb(99, 28, 28);
+}
+hr{
+    border: 8px dotted  #8e3535;
+    border-bottom: none;
+    width:8%;
+    margin: 20px auto 20px auto;
+    
+}
