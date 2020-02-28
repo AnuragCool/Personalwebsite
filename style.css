@@ -3,7 +3,7 @@ body{
     font-family: 'Spartan';
 }
 .title{
-    background: url("/2866137.jpg") no-repeat center fixed;
+    background: url("2866137.jpg") no-repeat center fixed;
     background-size: cover;
 }
 .container-fluid{
@@ -17,7 +17,7 @@ span{
     margin: 5% auto 5% auto;;
 }
 .Contact{
-    background: url("/2866137.jpg") no-repeat center;
+    background: url("2866137.jpg") no-repeat center;
     background-size: cover;
 }
 .avtar{
