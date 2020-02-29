@@ -1,9 +1,7 @@
 body{
     text-align: center;
     font-family: 'Spartan';
-}
-.title{
-    background: url("2866137.jpg") no-repeat center fixed;
+    background: url("2866137.jpg") no-repeat center center fixed;
     background-size: cover;
 }
 .container-fluid{
@@ -17,7 +15,7 @@ span{
     margin: 5% auto 5% auto;;
 }
 .Contact{
-    background: url("2866137.jpg") no-repeat center;
+    /* background-image: linear-gradient(to bottom,white,rgb(247, 93, 66)); */
     background-size: cover;
 }
 .avtar{
@@ -45,7 +43,7 @@ h2{
 }
 .nav-link{
     font-weight: bold;
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 .nav-item{
     padding: 0 15px 0 0;
@@ -63,7 +61,7 @@ nav .navbar-nav li a{
     padding: 20px;;
 }  
 .icon{
-    padding: 30px;
+    padding: 50px;
     color: brown;
 }
 .icon:hover{
