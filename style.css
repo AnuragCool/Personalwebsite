@@ -23,6 +23,7 @@ span{
     height: 200px;
 }
 h1{
+    padding-top:20px;
     font-family: 'Pacifico';
     color: brown;
 }
@@ -61,7 +62,7 @@ nav .navbar-nav li a{
     padding: 20px;;
 }  
 .icon{
-    padding: 50px;
+    padding: 20px;
     color: brown;
 }
 .icon:hover{
