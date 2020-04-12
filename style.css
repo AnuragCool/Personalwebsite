@@ -103,7 +103,7 @@ hr{
 h1{
     padding-top:20px;
     font-family: 'Pacifico';
-    color: brown;
+    color: white;
 }
 p{color: #b81405;
 
@@ -112,7 +112,7 @@ p{color: #b81405;
 h2{
     font-weight: bolder;
     margin: 20px;
-    color: #ff6600;
+    color: white;
 }
 .navbar-brand{
     font-family:'Ubuntu';
@@ -141,7 +141,7 @@ nav .navbar-nav li a{
 }  
 .icon{
     padding: 20px;
-    color: brown;
+    color: white;
 }
 .icon:hover{
     color: rgb(99, 28, 28);
