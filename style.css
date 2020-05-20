@@ -1,26 +1,15 @@
 body{
-    text-align: center;
     font-family: 'Spartan';
-    background: url("2866137.jpg") no-repeat center center fixed;
-    background-size: cover;
+    text-align: center;
+    color: #222831;
+    background-color: white;
 }
 .container-fluid{
-    padding: 7% 15%;
+    padding: 4% 8%;
 }
-span{
-    text-decoration: underline;
-    font-size: 1.2rem;
-}
-.skills{
-    margin: 5% auto 5% auto;;
-}body{
-    text-align: center;
-    font-family: 'Spartan';
-    background: url("3599609.jpg") no-repeat center center fixed;
-    background-size: cover;
-}
-.container-fluid{
-    padding: 7% 15%;
+.title{
+   background: white url(back_image.svg)center no-repeat;
+   background-size: cover;
 }
 span{
     text-decoration: underline;
@@ -35,29 +24,35 @@ span{
 }
 .avtar{
     border-radius: 50%;
-    height: 200px;
+    height: 300px;
+    box-shadow: 3px 10px #38476a;
+    box-sizing: border-box;
     border: solid 2px white;
+    
+}
+.intro{
+    text-align: center;
 }
 h1{
     font-family: 'Pacifico';
-    color: white;
-    font-size: 3rem;
-}
-p{color: white;
-    font-size: 1.3rem;
+    font-size: 5rem;
+    color:white ;
+    text-shadow: 10px 8px #222831;
 
-    margin: 20px;
+
 }
-h2{
-    font-weight: bolder;
-    margin: 20px;
-    color: white;
+.hello{
+    font-size: 1.3rem;
+    color: #ffffff;
+    width: 60%;
+    margin: 0 auto 0 auto;
 }
+
 .navbar-brand{
     font-family:'Ubuntu';
     font-size:2.5em;
     font-weight: bold;
-    color: #ffffff !important;
+    color: #222831 !important;
 }
 .nav-link{
     font-weight: bold;
@@ -67,10 +62,11 @@ h2{
     padding: 0 15px 0 0;
 }
 nav .navbar-nav li a{
-    color: white !important;
+    color: #7ffff2 !important;
+
     }
     nav .navbar-nav li a:hover{
-        color: #ffffff !important;
+        color: white !important;
         }            
 #copyright{
     margin-bottom: 0;
@@ -89,67 +85,20 @@ hr{
     border: 8px dotted  white;
     border-bottom: none;
     width:8%;
-    margin: 20px auto 20px auto;
-    
-}
-.Contact{
-    /* background-image: linear-gradient(to bottom,white,rgb(247, 93, 66)); */
-    background-size: cover;
-}
-.avtar{
-    border-radius: 50%;
-    height: 200px;
-}
-h1{
-    padding-top:20px;
-    font-family: 'Pacifico';
-    color: white;
-}
-p{color: #b81405;
-
-    margin: 20px;
+    margin-bottom: 10px;
+   
 }
 h2{
-    font-weight: bolder;
-    margin: 20px;
-    color: white;
+    color: #9a00ff;
+  
 }
-.navbar-brand{
-    font-family:'Ubuntu';
-    font-size:2.5em;
-    font-weight: bold;
-    color: #ffffff !important;
-}
-.nav-link{
-    font-weight: bold;
-    font-size: 1rem;
-}
-.nav-item{
-    padding: 0 15px 0 0;
-}
-nav .navbar-nav li a{
-    color: #b81405 !important;
-    }
-    nav .navbar-nav li a:hover{
-        color: #ffffff !important;
-        }            
-#copyright{
-    margin-bottom: 0;
-}      
-#contact{
-    padding: 20px;;
-}  
-.icon{
-    padding: 20px;
-    color: white;
-}
-.icon:hover{
-    color: rgb(99, 28, 28);
-}
-hr{
-    border: 8px dotted  #8e3535;
-    border-bottom: none;
-    width:8%;
-    margin: 20px auto 20px auto;
+.col-md-6{
     
 }
+.start{
+    padding: 5% auto;
+}
+.row{
+    padding:3% 0;
+}
+
